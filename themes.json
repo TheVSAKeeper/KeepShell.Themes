@@ -1,41 +1,101 @@
 {
+  "formatVersion": 1,
   "themes": [
     {
       "id": "KeepShell.Themes.Tarkov",
-      "name": "Tarkov (игровая)",
-      "version": "0.1.306",
+      "name": "Tarkov",
+      "paletteKind": "dark",
+      "author": "KeepShell",
+      "version": "0.1.320",
       "minimumKeepShell": "0.1.306",
-      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.306/KeepShell.Themes.Tarkov.0.1.306.zip",
-      "preview": "#201E18",
-      "accent": "#A49364"
+      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Tarkov.0.1.320.zip",
+      "preview": "#0B0C0B",
+      "accent": "#C7C6B0",
+      "description": "Нейтрально-графитовая палитра Escape from Tarkov с оригинальным шрифтом Bender, декором заголовка, шкалами данных и заставкой высадки.",
+      "sizeBytes": 951286,
+      "surface": "#121312",
+      "foreground": "#EAEAE2",
+      "themes": [
+        "Tarkov"
+      ],
+      "features": [
+        "Шрифт Bender",
+        "Декор заголовка",
+        "Заставка высадки"
+      ],
+      "image": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Tarkov.png"
     },
     {
       "id": "KeepShell.Themes.Sublime",
       "name": "Sublime",
-      "version": "0.1.306",
+      "paletteKind": "dark",
+      "author": "KeepShell",
+      "version": "0.1.320",
       "minimumKeepShell": "0.1.306",
-      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.306/KeepShell.Themes.Sublime.0.1.306.zip",
+      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Sublime.0.1.320.zip",
       "preview": "#252A31",
-      "accent": "#8C9BC2"
+      "accent": "#8C9BC2",
+      "description": "Сдержанная тёмная редакторская палитра с мягким контрастом и аккуратными акцентами.",
+      "sizeBytes": 15681,
+      "surface": "#353F49",
+      "foreground": "#E3E8ED",
+      "themes": [
+        "Sublime"
+      ],
+      "features": [
+        "Редакторская палитра",
+        "Мягкий контраст",
+        "Шкалы данных"
+      ],
+      "image": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Sublime.png"
     },
     {
       "id": "KeepShell.Themes.ViceCity",
-      "name": "Vice City и Miami '86",
-      "version": "0.1.306",
+      "name": "Vice City",
+      "paletteKind": "dark",
+      "author": "KeepShell",
+      "version": "0.1.320",
       "minimumKeepShell": "0.1.306",
-      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.306/KeepShell.Themes.ViceCity.0.1.306.zip",
+      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.ViceCity.0.1.320.zip",
       "preview": "#1B1027",
-      "accent": "#F76AB5"
+      "accent": "#F76AB5",
+      "description": "Неоновая тёмная тема в стиле ретровейва 80-х с декором заголовка, шкалами данных и кинематографической заставкой.",
+      "sizeBytes": 42072,
+      "surface": "#221B30",
+      "foreground": "#E8DEF3",
+      "themes": [
+        "Vice City"
+      ],
+      "features": [
+        "Неоновый ретровейв",
+        "Декор заголовка",
+        "VHS-заставка"
+      ],
+      "image": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.ViceCity.png"
     },
     {
       "id": "KeepShell.Themes.Minecraft",
       "name": "Minecraft",
-      "version": "0.1.306",
+      "paletteKind": "dark",
+      "author": "KeepShell",
+      "version": "0.1.320",
       "minimumKeepShell": "0.1.306",
-      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.306/KeepShell.Themes.Minecraft.0.1.306.zip",
+      "download": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Minecraft.0.1.320.zip",
       "preview": "#333439",
-      "accent": "#58AD45"
+      "accent": "#58AD45",
+      "description": "Каменная палитра Ore UI с 3D-фасками, шрифтом Tektur, декором заголовка и объёмной 3D-заставкой.",
+      "sizeBytes": 178325,
+      "surface": "#1E1E21",
+      "foreground": "#F3F3EE",
+      "themes": [
+        "Minecraft"
+      ],
+      "features": [
+        "Шрифт Tektur",
+        "3D-фаски и хром",
+        "3D-заставка"
+      ],
+      "image": "https://github.com/TheVSAKeeper/KeepShell.Themes/releases/download/v0.1.320/KeepShell.Themes.Minecraft.png"
     }
-  ],
-  "formatVersion": 1
+  ]
 }
